@@ -7,4 +7,5 @@ export default defineConfig({
     react(),
     tailwindcss(),
   ],
+  base: '/2400016037_tekwebprak8_Navigasi-Routing-Sisi-Klien-SPA/',
 })
